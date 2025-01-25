@@ -1,1 +1,1 @@
-# Shell-Edunet-Skills4Future-AICTE-Internship-Week-1
+# Shell-Edunet-Skills4Future-AICTE-Internship
